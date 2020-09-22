@@ -1,0 +1,12 @@
+body {
+  font-family: Arial;
+  font-size: 30pt;
+  color: white;
+  -webkit-text-stroke: 1px black;
+}
+
+p {
+  font-size: 12pt;
+  color: black;
+  -webkit-text-stroke: none;
+}
