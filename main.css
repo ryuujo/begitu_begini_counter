@@ -9,6 +9,7 @@ p {
   font-size: 12pt;
   color: black;
   -webkit-text-stroke: none;
+  margin: 0;
 }
 
 .total {
