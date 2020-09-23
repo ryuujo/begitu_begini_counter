@@ -10,3 +10,10 @@ p {
   color: black;
   -webkit-text-stroke: none;
 }
+
+.total {
+  font-size: 14pt;
+  color: white;
+  -webkit-text-stroke: 1px black;
+  -webkit-text-stroke: none;
+}
